@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/cruz-portfolio/precache-manifest.8ec790be7201fce5eb61545d3660d2f6.js"
+  "/cruz-portfolio/precache-manifest.a9b31a9a54e6a9f63c02c02bfdcfaf97.js"
 );
 
 self.addEventListener('message', (event) => {
