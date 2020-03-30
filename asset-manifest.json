@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/cruz-portfolio/static/css/main.5f361e03.chunk.css",
+    "main.js": "/cruz-portfolio/static/js/main.ce04dabf.chunk.js",
+    "main.js.map": "/cruz-portfolio/static/js/main.ce04dabf.chunk.js.map",
+    "runtime-main.js": "/cruz-portfolio/static/js/runtime-main.6812d9d1.js",
+    "runtime-main.js.map": "/cruz-portfolio/static/js/runtime-main.6812d9d1.js.map",
+    "static/js/2.9d97feda.chunk.js": "/cruz-portfolio/static/js/2.9d97feda.chunk.js",
+    "static/js/2.9d97feda.chunk.js.map": "/cruz-portfolio/static/js/2.9d97feda.chunk.js.map",
+    "index.html": "/cruz-portfolio/index.html",
+    "precache-manifest.03c42498d91d58e3316f2f2a81a70f93.js": "/cruz-portfolio/precache-manifest.03c42498d91d58e3316f2f2a81a70f93.js",
+    "service-worker.js": "/cruz-portfolio/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/cruz-portfolio/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.9d97feda.chunk.js.LICENSE.txt": "/cruz-portfolio/static/js/2.9d97feda.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/cruz-portfolio/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6812d9d1.js",
+    "static/js/2.9d97feda.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.ce04dabf.chunk.js"
+  ]
+}
