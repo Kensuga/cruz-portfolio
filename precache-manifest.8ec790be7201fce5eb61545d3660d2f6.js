@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "51a669c8e1e7c662336dce289e5fdb74",
+    "revision": "ff53682d776aeef35e3595285eefe1d9",
     "url": "/cruz-portfolio/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cruz-portfolio/static/css/2.de424728.chunk.css"
   },
   {
-    "revision": "45327467d9ab068abd3f",
-    "url": "/cruz-portfolio/static/css/main.5f361e03.chunk.css"
+    "revision": "00fda58215cf243ca47b",
+    "url": "/cruz-portfolio/static/css/main.079a996a.chunk.css"
   },
   {
     "revision": "721903d57d031283aeda",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cruz-portfolio/static/js/2.bd87e693.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "45327467d9ab068abd3f",
+    "revision": "00fda58215cf243ca47b",
     "url": "/cruz-portfolio/static/js/main.13aec77c.chunk.js"
   },
   {

@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/cruz-portfolio/static/css/main.5f361e03.chunk.css",
+    "main.css": "/cruz-portfolio/static/css/main.079a996a.chunk.css",
     "main.js": "/cruz-portfolio/static/js/main.13aec77c.chunk.js",
     "main.js.map": "/cruz-portfolio/static/js/main.13aec77c.chunk.js.map",
     "runtime-main.js": "/cruz-portfolio/static/js/runtime-main.57897e3c.js",
@@ -9,10 +9,10 @@
     "static/js/2.bd87e693.chunk.js": "/cruz-portfolio/static/js/2.bd87e693.chunk.js",
     "static/js/2.bd87e693.chunk.js.map": "/cruz-portfolio/static/js/2.bd87e693.chunk.js.map",
     "index.html": "/cruz-portfolio/index.html",
-    "precache-manifest.6ec93aba8bf4ba054f83e653dfdbac0b.js": "/cruz-portfolio/precache-manifest.6ec93aba8bf4ba054f83e653dfdbac0b.js",
+    "precache-manifest.8ec790be7201fce5eb61545d3660d2f6.js": "/cruz-portfolio/precache-manifest.8ec790be7201fce5eb61545d3660d2f6.js",
     "service-worker.js": "/cruz-portfolio/service-worker.js",
     "static/css/2.de424728.chunk.css.map": "/cruz-portfolio/static/css/2.de424728.chunk.css.map",
-    "static/css/main.5f361e03.chunk.css.map": "/cruz-portfolio/static/css/main.5f361e03.chunk.css.map",
+    "static/css/main.079a996a.chunk.css.map": "/cruz-portfolio/static/css/main.079a996a.chunk.css.map",
     "static/js/2.bd87e693.chunk.js.LICENSE.txt": "/cruz-portfolio/static/js/2.bd87e693.chunk.js.LICENSE.txt",
     "static/media/Alpha_20_027.jpg": "/cruz-portfolio/static/media/Alpha_20_027.be704da6.jpg",
     "static/media/Vis.gif": "/cruz-portfolio/static/media/Vis.1927d333.gif",
@@ -23,7 +23,7 @@
     "static/js/runtime-main.57897e3c.js",
     "static/css/2.de424728.chunk.css",
     "static/js/2.bd87e693.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
+    "static/css/main.079a996a.chunk.css",
     "static/js/main.13aec77c.chunk.js"
   ]
 }
