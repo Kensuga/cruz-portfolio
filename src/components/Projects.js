@@ -55,7 +55,7 @@ class Projects extends Component{
                                     I created this Portfolio from the found up using react, bootstrap and a few other libraries as well. Those libraries being React-Icons as well as React-Spring, free resources for icons and animations.<br/>
                                 </Card.Text>
                                 <Row>
-                                <Button variant="secondary" onClick={()=> window.open("https://github.com/Kensuga/portfolio_react","_blank")}><FaGithub style={{fontSize:"24px"}}/> Repository</Button>
+                                <Button variant="secondary" onClick={()=> window.open("https://github.com/Kensuga/cruz-portfolio","_blank")}><FaGithub style={{fontSize:"24px"}}/> Repository</Button>
                                 </Row>
                             </Card.Body>
                         </Card>   
