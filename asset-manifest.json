@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/cruz-portfolio/static/css/main.079a996a.chunk.css",
-    "main.js": "/cruz-portfolio/static/js/main.13aec77c.chunk.js",
-    "main.js.map": "/cruz-portfolio/static/js/main.13aec77c.chunk.js.map",
-    "runtime-main.js": "/cruz-portfolio/static/js/runtime-main.57897e3c.js",
-    "runtime-main.js.map": "/cruz-portfolio/static/js/runtime-main.57897e3c.js.map",
-    "static/css/2.de424728.chunk.css": "/cruz-portfolio/static/css/2.de424728.chunk.css",
-    "static/js/2.bd87e693.chunk.js": "/cruz-portfolio/static/js/2.bd87e693.chunk.js",
-    "static/js/2.bd87e693.chunk.js.map": "/cruz-portfolio/static/js/2.bd87e693.chunk.js.map",
-    "index.html": "/cruz-portfolio/index.html",
-    "precache-manifest.a9b31a9a54e6a9f63c02c02bfdcfaf97.js": "/cruz-portfolio/precache-manifest.a9b31a9a54e6a9f63c02c02bfdcfaf97.js",
-    "service-worker.js": "/cruz-portfolio/service-worker.js",
-    "static/css/2.de424728.chunk.css.map": "/cruz-portfolio/static/css/2.de424728.chunk.css.map",
-    "static/css/main.079a996a.chunk.css.map": "/cruz-portfolio/static/css/main.079a996a.chunk.css.map",
-    "static/js/2.bd87e693.chunk.js.LICENSE.txt": "/cruz-portfolio/static/js/2.bd87e693.chunk.js.LICENSE.txt",
-    "static/media/Alpha_20_027.jpg": "/cruz-portfolio/static/media/Alpha_20_027.be704da6.jpg",
-    "static/media/Vis.gif": "/cruz-portfolio/static/media/Vis.1927d333.gif",
-    "static/media/battleship.png": "/cruz-portfolio/static/media/battleship.a389e2ee.png",
-    "static/media/comingsoon.png": "/cruz-portfolio/static/media/comingsoon.81d98f93.png"
+    "main.css": "/static/css/main.079a996a.chunk.css",
+    "main.js": "/static/js/main.1503664c.chunk.js",
+    "main.js.map": "/static/js/main.1503664c.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.b1b4ec09.js",
+    "runtime-main.js.map": "/static/js/runtime-main.b1b4ec09.js.map",
+    "static/css/2.de424728.chunk.css": "/static/css/2.de424728.chunk.css",
+    "static/js/2.bd87e693.chunk.js": "/static/js/2.bd87e693.chunk.js",
+    "static/js/2.bd87e693.chunk.js.map": "/static/js/2.bd87e693.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.fc26b775d3b1052341d0cc6c228f7968.js": "/precache-manifest.fc26b775d3b1052341d0cc6c228f7968.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/static/css/2.de424728.chunk.css.map",
+    "static/css/main.079a996a.chunk.css.map": "/static/css/main.079a996a.chunk.css.map",
+    "static/js/2.bd87e693.chunk.js.LICENSE.txt": "/static/js/2.bd87e693.chunk.js.LICENSE.txt",
+    "static/media/Alpha_20_027.jpg": "/static/media/Alpha_20_027.be704da6.jpg",
+    "static/media/Vis.gif": "/static/media/Vis.1927d333.gif",
+    "static/media/battleship.png": "/static/media/battleship.a389e2ee.png",
+    "static/media/comingsoon.png": "/static/media/comingsoon.81d98f93.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.57897e3c.js",
+    "static/js/runtime-main.b1b4ec09.js",
     "static/css/2.de424728.chunk.css",
     "static/js/2.bd87e693.chunk.js",
     "static/css/main.079a996a.chunk.css",
-    "static/js/main.13aec77c.chunk.js"
+    "static/js/main.1503664c.chunk.js"
   ]
 }
